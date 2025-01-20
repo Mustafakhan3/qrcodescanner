@@ -1,0 +1,46 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 120px;
+  
+}
+
+.size{
+    background-color: white;
+    width: 310px;
+    height: 500px;
+    border-radius: 15px;
+}
+
+.flex img{
+    width: 280px;
+    height: 280px;
+    margin-top: 12px;
+    margin-left: 15px;
+    border-radius: 15px;
+}
+
+ h2{
+    margin-top: 20px;
+    width: 300px;
+    margin-left: 25px;
+}
+p{
+    margin-top: 12px;
+    color: hsl(216, 15%, 48%);
+    width: 260px;
+    margin-left: 30px;
+}
+.spacing{
+    margin-left: 105px;
+        color: hsl(216, 15%, 48%);
+}
+
+
